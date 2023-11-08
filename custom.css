@@ -1,0 +1,52 @@
+label,select,input,p {
+  color:black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: larger;
+
+ }
+
+ body{
+  background-color: bisque;
+ }
+
+ h3{
+  color:purple;
+  
+ }
+
+.container {
+  background-color:bisque;
+ block-size: 100%
+;
+}
+.con{
+  background-color: purple;
+  
+}
+
+.btn-primary {
+ background-color:purple;
+ color:white;
+ border: white;
+ margin-left: 45%;
+ box-shadow: 0 0 10ox rgba(0 ,0 ,0 ,0,0.3);
+}
+
+.header {
+  background-color:purple; 
+  color: #fff; 
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.footer {
+  background-color: purple; 
+  color: #fff; 
+  padding: 10px;
+  text-align: center;
+}
+
+h1 {
+  color:white;
+}
